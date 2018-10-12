@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   SavedWeeklyActivities.plist
+   Balance
+
+   Created by Michael on 4/10/18.
+   Copyright (c) 2018 poshbaboon. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>Unknown</key>
+        <array>
+            <dict>
+                <key>UniqueId</key>
+                <string>e1be38fc-3ab5-11e8-b467-0ed5f89f718b</string>
+                <key>Latitude</key>
+                <real>40.628124</real>
+                <key>Longitude</key>
+                <real>-111.8283873</real>
+                <key>Timestamp</key>
+                <date>2018-04-08T04:33:22Z</date>
+                <key>Placemark</key>
+                <dict>
+                    <key>Name</key>
+                    <string>2186 E 6760 N</string>
+                    <key>SubLocality</key>
+                    <string>Cottonwood Heights</string>
+                    <key>Locality</key>
+                    <string>Salt Lake City</string>
+                    <key>AdministrativeArea</key>
+                    <string>UT</string>
+                </dict>
+                <key>Activity</key>
+                <string>Unknown</string>
+            </dict>
+            <dict>
+                <key>UniqueId</key>
+                <string>e1be40e0-3ab5-11e8-b467-0ed5f89f718b</string>
+                <key>Latitude</key>
+                <real>40.299808</real>
+                <key>Longitude</key>
+                <real>-111.657925</real>
+                <key>Timestamp</key>
+                <date>2018-04-09T07:12:58Z</date>
+                <key>Placemark</key>
+                <dict>
+                    <key>Name</key>
+                    <string>The Riverwoods</string>
+                    <key>SubLocality</key>
+                    <string>Unknown</string>
+                    <key>Locality</key>
+                    <string>Provo</string>
+                    <key>AdministrativeArea</key>
+                    <string>UT</string>
+                </dict>
+                <key>Activity</key>
+                <string>Unknown</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
